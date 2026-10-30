@@ -10,7 +10,7 @@ Tenho experiência na condução de projetos de cultura digital, além de mentor
 
 Tenho domínio dos kits LEGO (EV3 e SPIKE) e de programação em blocos, além de amplo conhecimento das diversas placas Arduino e seus shields, com programação tanto em C++ quanto em blocos voltada para Arduino. Possuo ainda conhecimento em programação HTML, CSS, C++, Python e Power BI.
 
-Atualmente, curso Pós-graduação na Impacta Tecnologia em Vibe Coding AI.
+***Atualmente, curso Pós-graduação na Impacta Tecnologia em Vibe Coding AI.***
 
 
 
